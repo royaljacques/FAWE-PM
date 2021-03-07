@@ -1,0 +1,8 @@
+name: FAWE-PM
+version: 0.0.1-ALPHA
+api: 3.13.0
+main: SuperNovX\FAWEPM\Loader
+description: A hight quality WorldEdit Plugin for PocketMine-MP
+authors:
+  - FlxiBoy
+  - supercrafter333
