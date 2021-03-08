@@ -54,7 +54,7 @@ class LanguageAPI
                 return "deu";
             } elseif ($lang == "eng" || $lang == "gb") {
                 return "eng";
-            } elseif ($lang == "fra" || $lang == "frz") {
+            } elseif ($lang == "fra" || $lang == "fra") {
                 return "fra";
             } else {
                 return false;
